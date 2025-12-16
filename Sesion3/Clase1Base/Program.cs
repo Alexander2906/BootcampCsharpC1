@@ -14,5 +14,10 @@ nombre = Console.ReadLine();
 Console.WriteLine("Mi nombre es, " + nombre);
 Console.WriteLine($"Mi altura es, {altura}");
 Console.WriteLine("Ecribe tu dinero");
+//Este es e comentario de prueba
+/* 
+    Comentario de bloque
+ */
+
 dinero = double.Parse(Console.ReadLine());
 Console.WriteLine($"Tu dinero es, {dinero}");
