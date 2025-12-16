@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ejercicios de Programacion\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion3\\EstructurasIterativas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A57A2E6-D950-4586-9CDF-69C68EF1F0D1}|EstructurasIterativas.csproj|d:\\ejercicios de programacion\\bc#\\modulo\\semana1\\clase1\\bootcampcsharpc1\\sesion3\\estructurasiterativas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A57A2E6-D950-4586-9CDF-69C68EF1F0D1}|EstructurasIterativas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 173,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ejercicios de Programacion\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion3\\EstructurasIterativas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ejercicios de Programacion\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion3\\EstructurasIterativas\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T05:17:25.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

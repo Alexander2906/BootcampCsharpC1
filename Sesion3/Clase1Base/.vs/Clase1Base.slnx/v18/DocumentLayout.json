@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Ejercicios de Programacion\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion3\\Clase1Base\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Ejercicios de Programacion\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion3\\Clase1Base\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBEAAAAtAAAAAAAAAA==",
+              "ToolTip": "D:\\Ejercicios de Programacion\\BC#\\Modulo\\Semana1\\Clase1\\BootcampCsharpC1\\Sesion3\\Clase1Base\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T07:28:37.92Z",
               "EditorCaption": ""
